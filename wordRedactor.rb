@@ -9,5 +9,5 @@ words.each { |word|
   if word == redact
     print "REDACTED "
   else
- 		print word + " "
+    print word + " "
   end }
